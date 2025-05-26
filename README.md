@@ -7,4 +7,5 @@ Code for producing weekly summaries of a friendly birding contest over X and Blu
 * Creating a pdf per country with the species already recorded in the current year and the one to be added.
   [Austria_25_species_2025-05-25.pdf](https://github.com/user-attachments/files/20439969/Austria_25_species_2025-05-25.pdf)
 * Creating pdf for blank species per continent and world.
+  
 [01_Blanks_2025_Africa_2588_species_2025-05-25.pdf](https://github.com/user-attachments/files/20439961/01_Blanks_2025_Africa_2588_species_2025-05-25.pdf)
